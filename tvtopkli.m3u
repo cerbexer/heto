@@ -1,0 +1,1317 @@
+#EXTM3U url-tvg="http://klimedia.space/epg.xml.gz"
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/pervy.png" catchup-days="1" group-title="Федеральные",Первый канал HD
+http://cdn.klimedia.space/lb/perykanal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/Россия HD Orig.png" catchup-days="1" group-title="Федеральные",Россия 1 HD
+http://cdn.klimedia.space/lb/russia1_720/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/kultura.png" group-title="Федеральные",Россия К
+http://cdn.klimedia.space/lb/Russia_K/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/ntv-mir.png" group-title="Федеральные",НТВ-Мир
+http://cdn.klimedia.space/lb/ntvmir/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/ntv.png" catchup-days="2" group-title="Федеральные",НТВ HD
+http://cdn.klimedia.space/lb/NTV_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Федеральные",Домашний HD
+http://cdn.klimedia.space/lb/Domashniyhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/rentv.png" catchup-days="2" group-title="Федеральные",РЕН ТВ HD
+http://cdn.klimedia.space/lb/Ren_TV_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://karnei4.github.io/convert/logo-z/6768df83df117df5f20aba5cba6b8c61.png" catchup-days="2" group-title="Федеральные",СТС HD
+http://cdn.klimedia.space/lb/CTC_HD_OTT/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Федеральные",СТС International
+http://cdn.klimedia.space/lb/CTC_International/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1598.png" group-title="Федеральные",ЧЕ!
+http://cdn.klimedia.space/lb/Che/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Федеральные",Суббота! HD
+http://cdn.klimedia.space/lb/subotahd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/piatnica.png" catchup-days="2" group-title="Федеральные",Пятница HD
+http://cdn.klimedia.space/lb/friday/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Федеральные",ТВ3 HD
+http://cdn.klimedia.space/lb/TV3HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/icon/Звезда Плюс HD.png" group-title="Федеральные",Звезда Плюс HD
+http://cdn.klimedia.space/lb/ZvezdaPlus/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/zvezda.png" catchup-days="1" group-title="Федеральные",Звезда HD
+http://cdn.klimedia.space/lb/CH_ZVEZDAHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/tvcentr.png" catchup-days="1" group-title="Федеральные",ТВЦ HD
+http://cdn.klimedia.space/lb/108216/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/otr.png" group-title="Федеральные",ОТР
+http://cdn.klimedia.space/lb/OTR/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/726.png" catchup-days="1" group-title="Федеральные",Мир HD
+http://cdn.klimedia.space/lb/MIR/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/5kanal-ru.png" catchup-days="1" group-title="Федеральные",Пятый канал
+http://cdn.klimedia.space/lb/Pyatyy_kanal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Федеральные",Ю
+http://cdn.klimedia.space/lb/Yu/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Федеральные",ТНТ HD
+http://cdn.klimedia.space/lb/TNT_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://sun9-44.userapi.com/s/v1/if2/upfnub7pGzJBRkdcFEy7BfklMBl0xnXZCbX9Q-bVnzxVjAOBAVOj92AIVXlE-BDoD5WwA-Ztr1YfmIfgGUlFD0AB.jpg?size=604x604&quality=95&type=album" group-title="Федеральные",Соловьев live FHD
+http://cdn.klimedia.space/lb/sovlive/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Федеральные",Центральное телевидение
+http://cdn.klimedia.space/lb/ctvlive/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Федеральные",360° HD
+http://cdn.klimedia.space/lb/360g/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/22c64cddb886ddd9518d1b905e464e82.png" group-title="Федеральные",Кубань 24
+http://cdn.klimedia.space/lb/Kuban24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Новостные",Россия 24
+http://cdn.klimedia.space/lb/Russia24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новостные",Известия HD
+http://cdn.klimedia.space/lb/iz/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2142.png" group-title="Новостные",Настоящее время HD
+http://cdn.klimedia.space/lb/nastyvremy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Новостные",Москва 24
+http://cdn.klimedia.space/lb/moscow_24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2269.png" group-title="Новостные",RT HD
+http://cdn.klimedia.space/lb/RTHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Новостные",ОСН ТВ
+http://cdn.klimedia.space/lb/ohnhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Новостные",Югра
+http://cdn.klimedia.space/lb/ugratv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/icon/РБК ТВ orig.png" group-title="Новостные",РБК
+http://cdn.klimedia.space/lb/rbk/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2401.png" group-title="Новостные",RTVI
+http://cdn.klimedia.space/lb/rtvl/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2266.png" group-title="Новостные",Euronews
+http://cdn.klimedia.space/lb/evurowes/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cC0PtfML/image.png" group-title="Новостные",ТАСС HD
+http://cdn.klimedia.space/lb/tass/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Новостные",360° Новости HD
+http://cdn.klimedia.space/lb/360news/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Новостные",France 24 HD
+http://cdn.klimedia.space/lb/France24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+http://cdn.klimedia.space/lb/sts-love/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/subbota.png" catchup-days="1" group-title="Развлекательные",Суббота!
+http://cdn.klimedia.space/lb/Subbota/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/perec.png" group-title="Развлекательные",Перец International
+http://cdn.klimedia.space/lb/perec/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/tnt-int-by.png" group-title="Развлекательные",ТНТ International HD
+http://cdn.klimedia.space/lb/tntinternational/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Развлекательные",ТНТ4 HD
+http://cdn.klimedia.space/lb/tnt4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/kvn-tv.png" group-title="Развлекательные",КВН ТВ
+http://cdn.klimedia.space/lb/kvn_Tv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Союз
+http://cdn.klimedia.space/lb/soyz/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Спас
+http://cdn.klimedia.space/lb/Spas/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",ПРНК HD
+http://cdn.klimedia.space/lb/1RNKHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Танцуй!
+http://cdn.klimedia.space/lb/tanc/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Развлекательные",Fashion HD
+http://cdn.klimedia.space/lb/FashionHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/fashionbox-hd.png" group-title="Развлекательные",Fashionbox
+http://cdn.klimedia.space/lb/1256/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",7D7TV
+http://cdn.klimedia.space/lb/2822/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",FoodTime
+http://cdn.klimedia.space/lb/3031/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Kus Kus HD
+http://cdn.klimedia.space/lb/KusKusHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Развлекательные",Анекдот ТВ
+http://cdn.klimedia.space/lb/anekdot/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Развлекательные",Сарафан
+http://cdn.klimedia.space/lb/sarafan/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Родной канал HD
+http://cdn.klimedia.space/lb/Radnoekanal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Gagsnetwork
+http://cdn.klimedia.space/lb/Muzzikvision/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",FAN HD
+http://cdn.klimedia.space/lb/Fan/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Ностальгия
+http://cdn.klimedia.space/lb/Nostalgiya/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Развлекательные",Театр
+http://cdn.klimedia.space/lb/Teatr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Russian Extreme HD
+http://cdn.klimedia.space/lb/id4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://cdn.klimedia.space/lb/HD_Teletr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Discovery HD
+http://cdn.klimedia.space/lb/Discovery/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+http://cdn.klimedia.space/lb/Discovery_Science/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery HD
+http://cdn.klimedia.space/lb/Investigationdiscovery/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Animal Planet HD
+http://cdn.klimedia.space/lb/AnimalPlane/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D1%80%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2.png?1602080716" group-title="Познавательные",Рыболов
+http://cdn.klimedia.space/lb/RYBOLOV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Дикий
+http://cdn.klimedia.space/lb/DIKYI/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2483.png" catchup-days="1" group-title="Познавательные",Дикая Охота HD
+http://cdn.klimedia.space/lb/DikayaOxotaHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2484.png" catchup-days="1" group-title="Познавательные",Дикая Рыбалка HD
+http://cdn.klimedia.space/lb/DikayaRybalkaHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/rybalka-i-oxota.png" group-title="Познавательные",Рыбалка и охота
+http://cdn.klimedia.space/lb/oxotairb/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Curiosity Stream
+http://cdn.klimedia.space/lb/pg_rukino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Big Planet HD
+http://cdn.klimedia.space/lb/ohotnikiribakhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Наука 2.0 HD
+http://cdn.klimedia.space/lb/NaukaHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Техно 24
+http://cdn.klimedia.space/lb/texno24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",DocuBox
+http://cdn.klimedia.space/lb/Docubox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/rt-doc.png" group-title="Познавательные",RT DOC HD
+http://cdn.klimedia.space/lb/RTDHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Nat Geo Wild HD
+http://cdn.klimedia.space/lb/Nat_Geo_Wild_SD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://cdn.klimedia.space/lb/DE_INSIGHT_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Galaxy HD
+http://cdn.klimedia.space/lb/GALAKTIKIHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",TravelXP HD
+http://cdn.klimedia.space/lb/Travelxp_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild CEE HD
+http://cdn.klimedia.space/lb/Nat_Geo_Wild_CEE_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Зал суда
+http://cdn.klimedia.space/lb/Zal_suda/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",CGTN Русский
+http://cdn.klimedia.space/lb/CGTN_Rus/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",НТВ Стиль
+http://cdn.klimedia.space/lb/ntv_stil/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",HGTV HD
+http://cdn.klimedia.space/lb/HGTVHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",RTG HD
+http://cdn.klimedia.space/lb/rtghd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",RTG
+http://cdn.klimedia.space/lb/RTG/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Food Network HD
+http://cdn.klimedia.space/lb/foodnetworkhdrt/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Драйв
+http://cdn.klimedia.space/lb/Draiv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Авто 24
+http://cdn.klimedia.space/lb/avto_24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Мужской
+http://cdn.klimedia.space/lb/MUZHSKOY/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Мир Вокруг HD
+http://cdn.klimedia.space/lb/mirvocrug/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Моя стихия
+http://cdn.klimedia.space/lb/Morskoy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",History HD
+http://cdn.klimedia.space/lb/HistoryHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",History 2 HD
+http://cdn.klimedia.space/lb/History2HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/tlc.png" group-title="Познавательные",TLC HD
+http://cdn.klimedia.space/lb/tlc_hd_ru/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",TLC CEE HD
+http://cdn.klimedia.space/lb/tlc/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",История
+http://cdn.klimedia.space/lb/history/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/moya-planeta.png" catchup-days="1" group-title="Познавательные",Моя планета HD
+http://cdn.klimedia.space/lb/moyplaneta/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/chemodan.png" group-title="Познавательные",Чемодан ТВ HD
+http://cdn.klimedia.space/lb/hmdan/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/zhivaya-priroda.png" catchup-days="1" group-title="Познавательные",Живая Природа HD
+http://cdn.klimedia.space/lb/Zhivaya_Priroda-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/365-dnej.png" group-title="Познавательные",365 Дней
+http://cdn.klimedia.space/lb/365dey/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Большая Азия
+http://cdn.klimedia.space/lb/Big_Asia/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Точка отрыва
+http://cdn.klimedia.space/lb/Tochka_otryva/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",HDL
+http://cdn.klimedia.space/lb/HDL/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Зоо ТВ
+http://cdn.klimedia.space/lb/Zoo_TV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",ZooПарк
+http://cdn.klimedia.space/lb/zoopark/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Наша Тема
+http://cdn.klimedia.space/lb/Nasha_Tema/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Первый космический HD
+http://cdn.klimedia.space/lb/CH_1KOSMICHESKIYHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Живая Планета
+http://cdn.klimedia.space/lb/Zhivaya_Planeta/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Телекафе
+http://cdn.klimedia.space/lb/Telecafe/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
+http://cdn.klimedia.space/lb/Telepyt/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Еда
+http://cdn.klimedia.space/lb/Eda/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://cdn.klimedia.space/lb/Kuhnya_TV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Viju+ Planet HD
+http://cdn.klimedia.space/lb/vijuplanet/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Viasat Explore CEE HD
+http://cdn.klimedia.space/lb/ViasatExplore/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Viasat Explore CEE
+http://cdn.klimedia.space/lb/ViasatExploreCEE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/viasat-history-ua.png" catchup-days="1" group-title="Познавательные",Viasat History HD CEE
+http://cdn.klimedia.space/lb/VIASAT_HISTORY_HD_CEE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Viasat Nature HD CEE
+http://cdn.klimedia.space/lb/Viasat_Nature_CEE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Viju Explore HD
+http://cdn.klimedia.space/lb/Viasat-Explore-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Viju Nature HD
+http://cdn.klimedia.space/lb/Viasat-Nature-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Viju History HD
+http://cdn.klimedia.space/lb/Viasat-History-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",В мире животных HD
+http://cdn.klimedia.space/lb/HD_Anim_Fam/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/ocean-tv.png" group-title="Познавательные",OCEAN-TV
+http://cdn.klimedia.space/lb/Ocen/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/glazami-turista.png" group-title="Познавательные",Глазами туриста HD
+http://cdn.klimedia.space/lb/glazami_turistahd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/neizvestnaya-planeta.png" group-title="Познавательные",Неизвестная Планета HD
+http://cdn.klimedia.space/lb/newsplanet/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Неизвестная Россия HD
+http://cdn.klimedia.space/lb/unknown_russia/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Travel Channel HD
+http://cdn.klimedia.space/lb/TravelChannelHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Travel + Adventure HD
+http://cdn.klimedia.space/lb/Travelplusadventure/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
+http://cdn.klimedia.space/lb/Muzzikokk/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Наша сибирь HD
+http://cdn.klimedia.space/lb/sibir/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",TVMChannel
+http://cdn.klimedia.space/lb/Muzzikrockroll/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",The Explorers HD
+http://cdn.klimedia.space/lb/TNE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Загородный
+http://cdn.klimedia.space/lb/Zagorod_TV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",TERRA HD
+http://cdn.klimedia.space/lb/terra_hd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/terra-inkognita.png" catchup-days="1" group-title="Познавательные",Терра Инкогнита HD
+http://cdn.klimedia.space/lb/terraing/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Relax HD
+http://cdn.klimedia.space/lb/relaxhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Познавательные",Оружие
+http://cdn.klimedia.space/lb/oruzhie/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://cdn.klimedia.space/lb/Usadba/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Познавательные",Бобёр
+http://cdn.klimedia.space/lb/Bober/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/Первый канал +2 (Белорецк).png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +2
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/Первый канал +3 (Омск).png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +3
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl3/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/3025.png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +4
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/pervy-pl5.png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +5
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl5/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/3026.png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +6
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl6/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/pervy-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +7
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/pervy-pl8.png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +8
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl8/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl9.png" catchup-days="1" group-title="Плюсовые   (Ru)",Первый канал +9
+http://cdn.klimedia.space/lb/Pervyy_kanal_pl9/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl1.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +1
+http://cdn.klimedia.space/lb/Rossiya_1_pl1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +2
+http://cdn.klimedia.space/lb/Rossiya_1_pl2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl3.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +3
+http://cdn.klimedia.space/lb/Rossiya_1_pl3/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl4.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +4
+http://cdn.klimedia.space/lb/Rossiya_1_pl4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl5.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +5
+http://cdn.klimedia.space/lb/Rossiya_1_pl5/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl6.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +6
+http://cdn.klimedia.space/lb/Rossiya_1_pl6/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +7
+http://cdn.klimedia.space/lb/Rossiya_1_pl7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl8.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +8
+http://cdn.klimedia.space/lb/Rossiya_1_pl8/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/efir/rossia1-pl9.png" catchup-days="1" group-title="Плюсовые   (Ru)",Россия 1 +9
+http://cdn.klimedia.space/lb/Rossiya_1_pl9/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/ntv-pl1.png" catchup-days="1" group-title="Плюсовые   (Ru)",НТВ +1
+http://cdn.klimedia.space/lb/NTV_pl1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/ntv-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",НТВ +2
+http://cdn.klimedia.space/lb/NTV_pl2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/ntv-pl4.png" catchup-days="1" group-title="Плюсовые   (Ru)",НТВ +4
+http://cdn.klimedia.space/lb/NTV_pl4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/ntv-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",НТВ +7
+http://cdn.klimedia.space/lb/NTV_pl7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/domashny-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",Домашний (+2)
+http://cdn.klimedia.space/lb/CH_DOMASHNIY_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/domashny-pl4.png" catchup-days="1" group-title="Плюсовые   (Ru)",Домашний (+4)
+http://cdn.klimedia.space/lb/CH_DOMASHNIY_4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/domashny-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",Домашний (+7)
+http://cdn.klimedia.space/lb/CH_DOMASHNIY_7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2037.png" catchup-days="1" group-title="Плюсовые   (Ru)",РЕН ТВ (+2)
+http://cdn.klimedia.space/lb/RENTV_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Плюсовые   (Ru)",РЕН ТВ (+4)
+http://cdn.klimedia.space/lb/RENTV_4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Плюсовые   (Ru)",РЕН ТВ (+7)
+http://cdn.klimedia.space/lb/RENTV_7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" catchup-days="1" group-title="Плюсовые   (Ru)",СТС (+2)
+http://cdn.klimedia.space/lb/sts_pl2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://karnei4.github.io/convert/logo-z/0b2ebb141ef278eae542b3bd4b698c6e.png" catchup-days="1" group-title="Плюсовые   (Ru)",СТС (+4)
+http://cdn.klimedia.space/lb/stspl4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://karnei4.github.io/convert/logo-z/3757f73a11dc6f5089c7f168d01e1092.png" catchup-days="1" group-title="Плюсовые   (Ru)",СТС (+7)
+http://cdn.klimedia.space/lb/sts7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/che-pl2.png" group-title="Плюсовые   (Ru)",Че! (+2)
+http://cdn.klimedia.space/lb/CHE_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/che-pl4.png" group-title="Плюсовые   (Ru)",Че! (+4)
+http://cdn.klimedia.space/lb/CHE_4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/che-pl7.png" group-title="Плюсовые   (Ru)",Че! (+7)
+http://cdn.klimedia.space/lb/CHE_7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/piatnica-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",Пятница! (+2)
+http://cdn.klimedia.space/lb/FRIDAY_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/piatnica-pl4.png" catchup-days="1" group-title="Плюсовые   (Ru)",Пятница! (+4)
+http://cdn.klimedia.space/lb/FRIDAY_4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Плюсовые   (Ru)",Звезда (+2)
+http://cdn.klimedia.space/lb/ZVEZDA_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Плюсовые   (Ru)",Звезда (+4)
+http://cdn.klimedia.space/lb/CH_ZVEZDA_4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Плюсовые   (Ru)",Звезда (+7)
+http://cdn.klimedia.space/lb/ZVEZDA_7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/tvcentr-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",ТВЦ (+2)
+http://cdn.klimedia.space/lb/tvc2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/tvcentr-pl4.png" catchup-days="1" group-title="Плюсовые   (Ru)",ТВЦ (+4)
+http://cdn.klimedia.space/lb/tvc4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/tvcentr-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",ТВЦ (+7)
+http://cdn.klimedia.space/lb/tvc7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/5kanal-ru-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",Пятый канал (+2)
+http://cdn.klimedia.space/lb/5tvpl2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/5kanal-ru-pl4.png" catchup-days="1" group-title="Плюсовые   (Ru)",Пятый канал (+4)
+http://cdn.klimedia.space/lb/5tvpl4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/5kanal-ru-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",Пятый канал (+7)
+http://cdn.klimedia.space/lb/5tvpl7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/tnt-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",ТНТ (+2)
+http://cdn.klimedia.space/lb/TNT_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/tnt-pl4.png" catchup-days="1" group-title="Плюсовые   (Ru)",ТНТ (+4)
+http://cdn.klimedia.space/lb/TNT_4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/tnt-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",ТНТ (+7)
+http://cdn.klimedia.space/lb/TNT_7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/karusel-pl2.png" catchup-days="1" group-title="Плюсовые   (Ru)",Карусель (+2)
+http://cdn.klimedia.space/lb/KARUSEL_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/karusel-pl7.png" catchup-days="1" group-title="Плюсовые   (Ru)",Карусель (+7)
+http://cdn.klimedia.space/lb/CH_KARUSEL_7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Москва Доверие
+http://cdn.klimedia.space/lb/moscvadoverie/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/scream.png" catchup-days="1" group-title="Фильмы и Сериалы",Scream
+http://cdn.klimedia.space/lb/pg_paradox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/amc.png" catchup-days="2" group-title="Фильмы и Сериалы",AMC HD
+http://cdn.klimedia.space/lb/AMC/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/kion-xit.png" catchup-days="2" group-title="Фильмы и Сериалы",KION Хит HD
+http://cdn.klimedia.space/lb/KION_HIT_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://karnei4.github.io/convert/BOLTHD.png" catchup-days="1" group-title="Фильмы и Сериалы",BOLT HD
+http://cdn.klimedia.space/lb/BOLTHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Shot TV
+http://cdn.klimedia.space/lb/Shot/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/kinosat.png" group-title="Фильмы и Сериалы",Киносат
+http://cdn.klimedia.space/lb/kinosat/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/lavstori.png" catchup-days="1" group-title="Фильмы и Сериалы",Лавстори
+http://cdn.klimedia.space/lb/levstore/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2229.png" catchup-days="1" group-title="Фильмы и Сериалы",Epic Drama HD
+http://cdn.klimedia.space/lb/EpicDramaHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Hollywood HD
+http://cdn.klimedia.space/lb/HollywoodHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",FilmBox
+http://cdn.klimedia.space/lb/FilmBox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2182.png" catchup-days="2" group-title="Фильмы и Сериалы",FilmBox Arthouse
+http://cdn.klimedia.space/lb/Filmbox_Arthouse/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",FilmUA Drama HD
+http://cdn.klimedia.space/lb/FilmUADramaHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://karnei4.github.io/convert/Star_Cinema_HD.png" catchup-days="1" group-title="Фильмы и Сериалы",Star Cinema HD
+http://cdn.klimedia.space/lb/STARCinemaHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://karnei4.github.io/convert/Star_Family_HD.png" catchup-days="1" group-title="Фильмы и Сериалы",Star Family HD
+http://cdn.klimedia.space/lb/STARFamilyHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Русский Иллюзион HD
+http://cdn.klimedia.space/lb/RU_ILLUSION_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/illuzion-plus.png" group-title="Фильмы и Сериалы",Иллюзион + HD
+http://cdn.klimedia.space/lb/ILLUSION_PLUS_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Видеокассета
+http://cdn.klimedia.space/lb/videokaseta/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Мир сериала HD
+http://cdn.klimedia.space/lb/mirserial/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Страшное HD
+http://cdn.klimedia.space/lb/strahnoetv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Страх HD
+http://cdn.klimedia.space/lb/Straxhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/img/logos/films/kinosezon.png" catchup-days="2" group-title="Фильмы и Сериалы",Киносезон
+http://cdn.klimedia.space/lb/kinosezon/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",TV XXI
+http://cdn.klimedia.space/lb/tvxxi/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/Еврокино.png" catchup-days="2" group-title="Фильмы и Сериалы",Еврокино
+http://cdn.klimedia.space/lb/Evrokino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/kineko.png" catchup-days="1" group-title="Фильмы и Сериалы",Кинеко HD
+http://cdn.klimedia.space/lb/kinoko/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Сапфир HD
+http://cdn.klimedia.space/lb/Sapfirtv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",VHS-ка
+http://cdn.klimedia.space/lb/vhska/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Trash HD
+http://cdn.klimedia.space/lb/trash/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",.black
+http://cdn.klimedia.space/lb/Black/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",.sci-fi
+http://cdn.klimedia.space/lb/SciFi/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",.red HD
+http://cdn.klimedia.space/lb/red/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/fox.png" catchup-days="1" group-title="Фильмы и Сериалы",Fox HD
+http://cdn.klimedia.space/lb/fox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/foxlife.png" catchup-days="2" group-title="Фильмы и Сериалы",Fox Life HD
+http://cdn.klimedia.space/lb/foxlife/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/1371.png" catchup-days="1" group-title="Фильмы и Сериалы",Amedia 1 HD
+http://cdn.klimedia.space/lb/Amedia1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Amedia 2 HD
+http://cdn.klimedia.space/lb/Amedia2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/amedia-premium.png" catchup-days="1" group-title="Фильмы и Сериалы",Amedia Premium HD
+http://cdn.klimedia.space/lb/Amediapremium/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/amedia-hit.png" catchup-days="1" group-title="Фильмы и Сериалы",Amedia Hit HD
+http://cdn.klimedia.space/lb/AmediaHit/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/detectivejam.png" catchup-days="1" group-title="Фильмы и Сериалы",DetectiveJam
+http://cdn.klimedia.space/lb/detectivejam/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/paramount-comedy-ua.png" group-title="Фильмы и Сериалы",Comedy Central
+http://cdn.klimedia.space/lb/Paramount_Comedy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Про Любовь HD
+http://cdn.klimedia.space/lb/Pro_Love_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/kriminalnoe-hd.png" catchup-days="1" group-title="Фильмы и Сериалы",Криминальное HD
+http://cdn.klimedia.space/lb/Kriminalnoe_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/komedijnoe-hd.png" catchup-days="2" group-title="Фильмы и Сериалы",Комедийное HD
+http://cdn.klimedia.space/lb/Komediinoe/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/nashe-lubimoe-hd.png" catchup-days="1" group-title="Фильмы и Сериалы",Любимое HD
+http://cdn.klimedia.space/lb/NasheLubimoeHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Романтичное HD
+http://cdn.klimedia.space/lb/Romantichnoe/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/bollywood-hd.png" catchup-days="1" group-title="Фильмы и Сериалы",Bollywood
+http://cdn.klimedia.space/lb/Bollywood/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Cinema HD
+http://cdn.klimedia.space/lb/Cinema/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",START Air HD
+http://cdn.klimedia.space/lb/START_Air_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/start-world.png" catchup-days="2" group-title="Фильмы и Сериалы",START World HD
+http://cdn.klimedia.space/lb/START_World_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Дорама HD
+http://cdn.klimedia.space/lb/Dorama/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Комедия
+http://cdn.klimedia.space/lb/rucomedy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",KinoJam 1 HD
+http://cdn.klimedia.space/lb/Kinojam_1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",KinoJam 2 HD
+http://cdn.klimedia.space/lb/Kinojam_2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Иллюзион+
+http://cdn.klimedia.space/lb/ilizi/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/kinouzhas.png" catchup-days="2" group-title="Фильмы и Сериалы",Киноужас HD
+http://cdn.klimedia.space/lb/kinohorror/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",РОДНОЕ КИНО
+http://cdn.klimedia.space/lb/radnoekino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Кинокомедия HD
+http://cdn.klimedia.space/lb/kinokomedia/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",КИНОСВИДАНИЕ
+http://cdn.klimedia.space/lb/kinosedania/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Наше новое кино HD
+http://cdn.klimedia.space/lb/nahenovoekino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",ИНДИЙСКОЕ КИНО
+http://cdn.klimedia.space/lb/indiakino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Киносерия HD
+http://cdn.klimedia.space/lb/kinoseria/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Киномикс HD
+http://cdn.klimedia.space/lb/Kinomiks-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/987.png" catchup-days="2" group-title="Фильмы и Сериалы",Киносемья HD
+http://cdn.klimedia.space/lb/Kinosem-ya-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/542.png" catchup-days="2" group-title="Фильмы и Сериалы",Кинохит HD
+http://cdn.klimedia.space/lb/Kinohit-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/1584.png" catchup-days="2" group-title="Фильмы и Сериалы",Мужское кино
+http://cdn.klimedia.space/lb/Muzhskoe-kino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/566.png" catchup-days="2" group-title="Фильмы и Сериалы",Кинопремьера HD
+http://cdn.klimedia.space/lb/Kinoprem-era-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/nashe-muzhskoe-hd.png" catchup-days="2" group-title="Фильмы и Сериалы",Наше мужское HD
+http://cdn.klimedia.space/lb/NasheMuzskoeHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/domkino-premium.png" catchup-days="1" group-title="Фильмы и Сериалы",Дом Кино Премиум HD
+http://cdn.klimedia.space/lb/domkinopremum/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/834.png" catchup-days="2" group-title="Фильмы и Сериалы",Дом Кино
+http://cdn.klimedia.space/lb/domkino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",НСТ
+http://cdn.klimedia.space/lb/nst/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Остросюжетное HD
+http://cdn.klimedia.space/lb/OstrosuzetnoeHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Шокирующее HD
+http://cdn.klimedia.space/lb/shokhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/Премиальное HD 50fps.png" catchup-days="1" group-title="Фильмы и Сериалы",Премиальное HD
+http://cdn.klimedia.space/lb/premiumhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/dushevnoe-hd.png" catchup-days="1" group-title="Фильмы и Сериалы",Душевное HD
+http://cdn.klimedia.space/lb/dusevnoehd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Наше HD
+http://cdn.klimedia.space/lb/nahehd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Русский детектив
+http://cdn.klimedia.space/lb/Russkiy_detektiv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Русский бестселлер
+http://cdn.klimedia.space/lb/Rus_Bests/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Русский роман HD
+http://cdn.klimedia.space/lb/Russkiy-Roman/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Кино 1 International
+http://cdn.klimedia.space/lb/Kino1International/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Детское кино International
+http://cdn.klimedia.space/lb/derskoekinoInternational/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Viju TV1000 HD
+http://cdn.klimedia.space/lb/TV-1000-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Viju TV1000 Русское
+http://cdn.klimedia.space/lb/TV1000_Rus_Kino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Viju TV1000 Русское HD
+http://cdn.klimedia.space/lb/TV1000_Rus_Kino_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Viju TV1000 Action HD
+http://cdn.klimedia.space/lb/TV1000_Action/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Viju+ Comedy HD
+http://cdn.klimedia.space/lb/ViP-Comedy-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/ViP Serial HD.png" catchup-days="1" group-title="Фильмы и Сериалы",Viju+ Serial HD
+http://cdn.klimedia.space/lb/ViP-Serial-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Viju+ Megahit HD
+http://cdn.klimedia.space/lb/ViPMegahitHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Viju+ Premiere HD
+http://cdn.klimedia.space/lb/ViPPremiereHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=212275;image" group-title="Фильмы и Сериалы",Viasat Kino
+http://cdn.klimedia.space/lb/TV-1000-CEE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=212275;image" catchup-days="2" group-title="Фильмы и Сериалы",Viasat Kino HD
+http://cdn.klimedia.space/lb/TV-1000-HD-CEE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=212276" catchup-days="1" group-title="Фильмы и Сериалы",Viasat Kino Action HD
+http://cdn.klimedia.space/lb/ViasatKinoActionHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=212279" catchup-days="2" group-title="Фильмы и Сериалы",Viasat Kino World HD
+http://cdn.klimedia.space/lb/TV-1000-World-Kino-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=212277" catchup-days="2" group-title="Фильмы и Сериалы",Viasat Kino Comedy HD
+http://cdn.klimedia.space/lb/ViP-Comedy-HD-CEE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=212278" catchup-days="2" group-title="Фильмы и Сериалы",Viasat Kino Megahit HD
+http://cdn.klimedia.space/lb/ViP-Megahit-HD-CEE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/kinopokaz.png" catchup-days="2" group-title="Фильмы и Сериалы",Кинопоказ HD
+http://cdn.klimedia.space/lb/kinopokaz/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/khit.png" catchup-days="2" group-title="Фильмы и Сериалы",Хит HD
+http://cdn.klimedia.space/lb/Hit-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Блокбастер HD
+http://cdn.klimedia.space/lb/Blokbaster-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/nash-kinopokaz.png" catchup-days="2" group-title="Фильмы и Сериалы",Наш кинопоказ HD
+http://cdn.klimedia.space/lb/Nash-kinopokaz-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/kino-tv.png" catchup-days="2" group-title="Фильмы и Сериалы",Кино ТВ
+http://cdn.klimedia.space/lb/Kino-TV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Камеди HD
+http://cdn.klimedia.space/lb/Kamedi_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=211249" catchup-days="2" group-title="Фильмы и Сериалы",Любимое кино HD
+http://cdn.klimedia.space/lb/Nashe-lyubimoe-kino-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",FilmUA Drama
+http://cdn.klimedia.space/lb/FilmUA-Drama/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Фантастика HD
+http://cdn.klimedia.space/lb/Fantastic/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=202785" catchup-days="1" group-title="Фильмы и Сериалы",4ever Cinema HD
+http://cdn.klimedia.space/lb/id6/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=202786" catchup-days="1" group-title="Фильмы и Сериалы",4ever Drama HD
+http://cdn.klimedia.space/lb/4Ever_Drama_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/4ever_Theater.png" catchup-days="1" group-title="Фильмы и Сериалы",4ever Theater HD
+http://cdn.klimedia.space/lb/4Ever_Theater_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Мосфильм. Золотая коллекция HD
+http://cdn.klimedia.space/lb/id5/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/denpobedy.png" catchup-days="2" group-title="Фильмы и Сериалы",День Победы
+http://cdn.klimedia.space/lb/denpobedy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Фильмы и Сериалы",Победа
+http://cdn.klimedia.space/lb/Pobeda/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Арсенал HD
+http://cdn.klimedia.space/lb/Arsenal_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/1754.png" catchup-days="1" group-title="Фильмы и Сериалы",НТВ Сериал HD
+http://cdn.klimedia.space/lb/ntvhit/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",НТВ Хит HD
+http://cdn.klimedia.space/lb/ntv_hit/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",НТВ Право
+http://cdn.klimedia.space/lb/ntv_pravo/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Фильмы и Сериалы",Время
+http://cdn.klimedia.space/lb/Vremya/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Кино 1 HD
+http://cdn.klimedia.space/lb/kino1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Кино 2 HD
+http://cdn.klimedia.space/lb/kino2org/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Фильмы и Сериалы",Военное кино HD
+http://cdn.klimedia.space/lb/voennoekino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Кинозалы",Твоё ТВ HD
+http://cdn.klimedia.space/lb/tvoetv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png" catchup-days="1" group-title="Кинозалы",ТВОЕ ТВ HD - ЮМОР
+http://cdn.klimedia.space/lb/tvoetv_humor/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Premiere HD
+http://cdn.klimedia.space/lb/premiere/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Premium HD
+http://cdn.klimedia.space/lb/premium/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Paradise HD
+http://cdn.klimedia.space/lb/paradise/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Paradox HD
+http://cdn.klimedia.space/lb/paradox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Victory HD
+http://cdn.klimedia.space/lb/victory/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",USSR HD
+http://cdn.klimedia.space/lb/pg_ussr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",VHS HD
+http://cdn.klimedia.space/lb/vhs/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTQg47tX/Horror.png" group-title="Кинозалы",Relax Horror
+http://cdn.klimedia.space/lb/Relax_horror/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XgBjZbL/Thriller.png" group-title="Кинозалы",Relax Thriller
+http://cdn.klimedia.space/lb/Relax_Thriller/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv3xZW2C/Action.png" group-title="Кинозалы",Relax Action
+http://cdn.klimedia.space/lb/Relax_Action/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRj7BHh5/Comedy.png" group-title="Кинозалы",Relax Comedy
+http://cdn.klimedia.space/lb/Relax_Comedy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90795X1H/Russian.png" group-title="Кинозалы",Relax Russian
+http://cdn.klimedia.space/lb/Relax_Russian/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Zq13kh/Fantasy.png" group-title="Кинозалы",Relax Fantasy
+http://cdn.klimedia.space/lb/Relax_Fantasy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L56wJQCx/Drama.png" group-title="Кинозалы",Relax Drama
+http://cdn.klimedia.space/lb/Relax_Drama/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Media
+http://cdn.klimedia.space/lb/eyemedia/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Oscar
+http://cdn.klimedia.space/lb/eyeoscar/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Frozen
+http://cdn.klimedia.space/lb/eyefrozen/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Criminal
+http://cdn.klimedia.space/lb/eyecriminal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Modern
+http://cdn.klimedia.space/lb/eyemodern/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Family
+http://cdn.klimedia.space/lb/eyefamily/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye History
+http://cdn.klimedia.space/lb/eyehistory/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Western
+http://cdn.klimedia.space/lb/eyewestern/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Drive
+http://cdn.klimedia.space/lb/eyedrive/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Eye Cyber
+http://cdn.klimedia.space/lb/eyecyber/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Смотрим Мелодрамы
+http://cdn.klimedia.space/lb/vgtrksmotrim/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Смотрим Честный детектив
+http://cdn.klimedia.space/lb/vgtrksmotrim1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Кинозал! Интерны ТВ
+http://cdn.klimedia.space/lb/interkinozal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Кинозал! ХИТ HD
+http://cdn.klimedia.space/lb/hitkinozal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Кинозал! СССР
+http://cdn.klimedia.space/lb/kinozalussr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Премьера Трейлеры
+http://cdn.klimedia.space/lb/primthri/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Cobra Comedy HD
+http://cdn.klimedia.space/lb/cobracomedy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Cobra Detektiv HD
+http://cdn.klimedia.space/lb/cobradetektiv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Cobra Melodrama HD
+http://cdn.klimedia.space/lb/cobramelodrama/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Cobra Thriller HD
+http://cdn.klimedia.space/lb/cobratriller/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Cobra Drama HD
+http://cdn.klimedia.space/lb/Cobradrama/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Кинозалы",Prokop TV Detektiv
+http://cdn.klimedia.space/lb/Prokop_Detektiv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Simpsons UA
+http://cdn.klimedia.space/lb/prokoptvSimpsonsUa/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/logo(22).png" catchup-days="1" group-title="Кинозалы",Prokop TV Cinema QHD
+http://cdn.klimedia.space/lb/prokoptvcinemaqhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Кинозалы",Prokop TV Вторая Мировая
+http://cdn.klimedia.space/lb/prokoptvcinemav/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Prokop TV Сказки СССР
+http://cdn.klimedia.space/lb/prokoptvskazkiussr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Prokop TV History HD
+http://cdn.klimedia.space/lb/prokoptvhistory/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Prokop TV Fantazy HD
+http://cdn.klimedia.space/lb/prokoptvfantazy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Prokop TV Horror HD
+http://cdn.klimedia.space/lb/prokoptvhorror/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Кулинар HD
+http://cdn.klimedia.space/lb/NewYear/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Serial HD
+http://cdn.klimedia.space/lb/prokoptvserialhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="2" group-title="Кинозалы",Prokop TV Netflix
+http://cdn.klimedia.space/lb/prokoptvnetflixserial/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/logo(12).png" catchup-days="2" group-title="Кинозалы",Prokop TV New films HD
+http://cdn.klimedia.space/lb/Newfilms/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Comedy HD
+http://cdn.klimedia.space/lb/prokoptvcomedy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Kung Fu
+http://cdn.klimedia.space/lb/kungfu/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Кинозалы",Prokop TV Show
+http://cdn.klimedia.space/lb/prokoptvshow/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Масяня
+http://cdn.klimedia.space/lb/masyana/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV UA
+http://cdn.klimedia.space/lb/prokoppremiere/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Кинозалы",Prokop TV Criminal HD
+http://cdn.klimedia.space/lb/prokoptvcriminalhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Music
+http://cdn.klimedia.space/lb/prokoptvmusic/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Rock
+http://cdn.klimedia.space/lb/prokoptvrock/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Кинозалы",Prokop TV Kids
+http://cdn.klimedia.space/lb/prokoptvkids/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Мульт HD UA
+http://cdn.klimedia.space/lb/Prokop_mylt_ua/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/logo(7).png" catchup-days="2" group-title="Кинозалы",Prokop TV Best
+http://cdn.klimedia.space/lb/prokoptvbest/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/logo/logo(17).png" group-title="Кинозалы",Prokop TV Docu HD
+http://cdn.klimedia.space/lb/prokoptvdocuhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Prokop TV Hard&Heavy Concerts HD
+http://cdn.klimedia.space/lb/ProkopTVrockconcert/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",UZ Однажды в России HD
+http://cdn.klimedia.space/lb/1070/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2221.jpg" catchup-days="1" group-title="Кинозалы",UZ-Films 60 fps HD
+http://cdn.klimedia.space/lb/gUi6C7rBED/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://uz-tv.net/storage/images/iptv/channels/3174.jpg" group-title="Кинозалы",UZ-KulGu TV HD
+http://cdn.klimedia.space/lb/ES6n9ROTlU/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2082.jpg" group-title="Кинозалы",UZ-4K Kino UHD
+http://cdn.klimedia.space/lb/DCL2ZKpYyW/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1594.jpg" catchup-days="1" group-title="Кинозалы",UZ-Кинозал HEVC HD
+http://cdn.klimedia.space/lb/ujwOT6AVCj/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1435.jpg" catchup-days="1" group-title="Кинозалы",UZ-Кинокомфорт HD
+http://cdn.klimedia.space/lb/2mHn9ZL9Xj/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/743.jpg" catchup-days="1" group-title="Кинозалы",UZ-Кино Новинки HD
+http://cdn.klimedia.space/lb/bU8HDICGQI/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2073.jpg" catchup-days="1" group-title="Кинозалы",UZ-Катастрофа HD
+http://cdn.klimedia.space/lb/lvKezqVHf4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/767.jpg" catchup-days="1" group-title="Кинозалы",UZ-Фантастика HD
+http://cdn.klimedia.space/lb/fantastika_madia_uz/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/964.jpg" catchup-days="1" group-title="Кинозалы",UZ-Комедия HD
+http://cdn.klimedia.space/lb/M0YpOykdwC/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2176.jpg" catchup-days="1" group-title="Кинозалы",UZ-Turk Serial HD
+http://cdn.klimedia.space/lb/eqoId7xYuR/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2186.jpg" catchup-days="1" group-title="Кинозалы",UZ-Fantastic HD
+http://cdn.klimedia.space/lb/QyLXglHOb7/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2185.jpg" catchup-days="1" group-title="Кинозалы",UZ-Films HD
+http://cdn.klimedia.space/lb/zTXqXwY1nl/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/681.jpg" catchup-days="1" group-title="Кинозалы",UZ-Ужасное ТВ HD
+http://cdn.klimedia.space/lb/tf23LmzEYl/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2085.jpg" catchup-days="1" group-title="Кинозалы",UZ-Сваты HD
+http://cdn.klimedia.space/lb/ygEtMDm9Ll/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1287.jpg" catchup-days="1" group-title="Кинозалы",UZ-Витек ТВ HD
+http://cdn.klimedia.space/lb/q9Dkz9RCxD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2099.jpg" catchup-days="1" group-title="Кинозалы",UZ-TV HD
+http://cdn.klimedia.space/lb/8I80YG29oy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1420.jpg" catchup-days="1" group-title="Кинозалы",UZ-Kino1 HD
+http://cdn.klimedia.space/lb/THwrGpha7M/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2070.jpg" catchup-days="1" group-title="Кинозалы",UZ-Kino2 HD
+http://cdn.klimedia.space/lb/AcuF0eOLRv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2074.jpg" catchup-days="1" group-title="Кинозалы",UZ-Kino3 HD
+http://cdn.klimedia.space/lb/7DQLFmoLi5/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2076.jpg" group-title="Кинозалы",UZ-Kino4 HD
+http://cdn.klimedia.space/lb/2qojQASQgz/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2083.jpg" catchup-days="1" group-title="Кинозалы",UZ-Kino5 HD
+http://cdn.klimedia.space/lb/hupq78tc9D/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2175.jpg" catchup-days="1" group-title="Кинозалы",UZ-SWIRIDENKO TV HD 2
+http://cdn.klimedia.space/lb/HWqzz0SLfl/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2072.jpg" catchup-days="1" group-title="Кинозалы",UZ-SWIRIDENKO TV HD
+http://cdn.klimedia.space/lb/KgImouqkwp/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2125.jpg" catchup-days="1" group-title="Кинозалы",UZ-Уральские Пельмени HD
+http://cdn.klimedia.space/lb/hBz2W8Ssl3/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1410.jpg" catchup-days="1" group-title="Кинозалы",UZ-Маша и Медведь HD
+http://cdn.klimedia.space/lb/6i9p3ayoMY/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1366.jpg" catchup-days="1" group-title="Кинозалы",UZ-Союз-Фильмы HD
+http://cdn.klimedia.space/lb/KIf2K3bizZ/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1289.jpg" catchup-days="1" group-title="Кинозалы",UZ-Бойцовское кино HD
+http://cdn.klimedia.space/lb/93OI5X3aAx/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/685.jpg" catchup-days="1" group-title="Кинозалы",UZ-KLIP NEW HD
+http://cdn.klimedia.space/lb/Lnnpmpuzct/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1322.jpg" catchup-days="1" group-title="Кинозалы",UZ-Ералаш ТВ HD
+http://cdn.klimedia.space/lb/qqSclmz3tr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1373.jpg" catchup-days="1" group-title="Кинозалы",UZ-Ну Погоди
+http://cdn.klimedia.space/lb/anfQ3DxBNW/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1436.jpg" catchup-days="1" group-title="Кинозалы",UZ-Малютка ТВ HD
+http://cdn.klimedia.space/lb/WjyjEPZG6w/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/680.jpg" catchup-days="1" group-title="Кинозалы",UZ-МУЛЬТЗАЛ HD
+http://cdn.klimedia.space/lb/VP1veGTlXG/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2082.jpg" catchup-days="1" group-title="Кинозалы",UZ-RU Serial HD
+http://cdn.klimedia.space/lb/6u8mmVSRun/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2914.jpg" catchup-days="1" group-title="Кинозалы",UZ-ALENSAT HD
+http://cdn.klimedia.space/lb/CmLZ37mqXh/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1201.jpg" catchup-days="1" group-title="Кинозалы",UZ-Том и Джери HD
+http://cdn.klimedia.space/lb/kG4UGKjjvQ/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2929.jpg" catchup-days="1" group-title="Кинозалы",UZ-Виталька HD
+http://cdn.klimedia.space/lb/DFQLJwlLg4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/2100.jpg" catchup-days="1" group-title="Кинозалы",UZ-Kids 60 fps HD
+http://cdn.klimedia.space/lb/2UNejrY8vt/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3hVvyv/TVPlay6-Kadrov.png" group-title="Кинозалы",TVPlay 6 Кадров
+http://cdn.klimedia.space/lb/TVPlay6Kadrov/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X82rkt9/TVPlay-Eralash.png" group-title="Кинозалы",TVPlay Ералаш
+http://cdn.klimedia.space/lb/TVPlayEralash/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/7k6xttD/TVPlay-Vysotskiy.png" catchup-days="1" group-title="Кинозалы",TVPlay Высоцкий HD
+http://cdn.klimedia.space/lb/TVPlayVysotskiy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zb8mN4c/image.png" group-title="Кинозалы",TVPlay Маски Шоу
+http://cdn.klimedia.space/lb/TVPLAYMaskiShow/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KygD3G2/TVPlay-Igra-Prestolov.png" group-title="Кинозалы",TVPlay Игра Престолов HD
+http://cdn.klimedia.space/lb/TVPlayIgraPrestolov/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/c60xCh9/Series-Latinas.png" catchup-days="1" group-title="Кинозалы",TVPlay Латинские сериалы ретро
+http://cdn.klimedia.space/lb/TVPlaySeriesLatinas/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/X5YZvTQ/TVPlay-Marvel.png" catchup-days="1" group-title="Кинозалы",TVPlay Marvel HD
+http://cdn.klimedia.space/lb/TVPlayMarvel/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/6nHTDz8/TVPlay-Avtorskiy-Perevod.png" catchup-days="1" group-title="Кинозалы",TVPlay Авторский перевод HD
+http://cdn.klimedia.space/lb/TVPlayAvtorskiyPerevod/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/6RrWb8B/TVPlay-ALF.png" catchup-days="1" group-title="Кинозалы",TVPlay АЛЬФ
+http://cdn.klimedia.space/lb/TVPlayALF/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6pXc08/TVPlay-Gorodok.png" group-title="Кинозалы",TVPlay Городок
+http://cdn.klimedia.space/lb/TVPlayGorodok/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmPTM4w/TVPlay-Bolshaya-Raznica.png" group-title="Кинозалы",TVPlay Большая Разница
+http://cdn.klimedia.space/lb/TVPlayBolshayaRaznica/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Phr6Jcp/TVPlay-Vkusniy-Kanal.png" group-title="Кинозалы",TVPlay Вкусный канал HD
+http://cdn.klimedia.space/lb/TVPlayVkusniyKanal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mT5gbr/TVPlay-Vavilon5.png" group-title="Кинозалы",TVPlay Вавилон 5
+http://cdn.klimedia.space/lb/TVPlayVavilon5/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34g54Ck/TVPlay-Garry-Potter.png" group-title="Кинозалы",TVPlay Гарри Поттер HD
+http://cdn.klimedia.space/lb/TVPlayGarryPotter/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/FxXv4zv/TVPlay-DCComics.png" catchup-days="1" group-title="Кинозалы",TVPlay DC Comics HD
+http://cdn.klimedia.space/lb/TVPlayDCComics/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/Xj1K1fV/TVPlay-Istorii-Sredizemya.png" catchup-days="1" group-title="Кинозалы",TVPlay Истории Средиземья HD
+http://cdn.klimedia.space/lb/TVPlayIstoriiSredizemya/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5GL8w5q/TVPlay-Major-Cherkasov.png" group-title="Кинозалы",TVPlay Майор Черкасов HD
+http://cdn.klimedia.space/lb/TVPlayMajorCherkasov/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5GL8w5q/TVPlay-Major-Cherkasov.png" group-title="Кинозалы",TVPlay Ксена Принцесса Воин
+http://cdn.klimedia.space/lb/TVPlayXenaPrincessaVoin/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0MtNmR/logo.png" group-title="Кинозалы",TVPlay Лихие 90е Сериал
+http://cdn.klimedia.space/lb/TVPlayLihie90eSerial/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/K5sWqh2/Lihie90e-Kino.png" catchup-days="1" group-title="Кинозалы",TVPlay Лихие 90е Кино
+http://cdn.klimedia.space/lb/TVPlayLihie90eKino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/x7RzhRt/Novyo-RUSHD.png" catchup-days="1" group-title="Кинозалы",TVPlay Новьё RUS HD
+http://cdn.klimedia.space/lb/TVPlayNovyoRUSHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://i.ibb.co/6D4mrK4/Novyo-MIRHD.png" catchup-days="1" group-title="Кинозалы",TVPlay Новьё Мир HD
+http://cdn.klimedia.space/lb/TVPlayNovyoWorldHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NWqmCwv/Svoya-Igra-HD.png" group-title="Кинозалы",TVPlay Своя игра HD
+http://cdn.klimedia.space/lb/TVPlaySvoyaIgra/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGRdYtm/TVPlay-Russkiy-Rok.png" group-title="Кинозалы",TVPlay Русский Рок HD
+http://cdn.klimedia.space/lb/TVPlayRusskiyRok/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/backustv.png" group-title="Кинозалы",BACKUSTV ORIGINAL
+http://cdn.klimedia.space/lb/btv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Кинозалы",BACKUSTV DARK
+http://cdn.klimedia.space/lb/btv2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Балабол
+http://cdn.klimedia.space/lb/Kinozal_1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Москва. Три вокзала
+http://cdn.klimedia.space/lb/Kinozal_9/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Детективы HD
+http://cdn.klimedia.space/lb/Monoserial_11/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Следствие вели
+http://cdn.klimedia.space/lb/Kinozal_8/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Кинозалы",Сваты
+http://cdn.klimedia.space/lb/Monoserial_15/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/sovkino.png" catchup-days="2" group-title="Кинозалы",Советское кино
+http://cdn.klimedia.space/lb/Serial/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/CINEMA.png" catchup-days="1" group-title="KLI Media",KLI Cinema HD
+http://cdn.klimedia.space/lb/klicinema/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/MUSIC.png" catchup-days="1" group-title="KLI Media",KLI Music HD
+http://cdn.klimedia.space/lb/klimusictv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/COMEDY.png" catchup-days="1" group-title="KLI Media",KLI Comedy HD
+http://cdn.klimedia.space/lb/klicomedi/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/HIT90-1.png" catchup-days="1" group-title="KLI Media",KLI HIT 90
+http://cdn.klimedia.space/lb/klihit90/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/HISTORY.png" catchup-days="1" group-title="KLI Media",KLI History HD
+http://cdn.klimedia.space/lb/klihistory/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/PREMIUM.png" catchup-days="1" group-title="KLI Media",KLI Premium HD
+http://cdn.klimedia.space/lb/klipremium/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/RUSSIAN.png" catchup-days="1" group-title="KLI Media",KLI Russian HD
+http://cdn.klimedia.space/lb/klirussian/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/FANTASTICA.png" catchup-days="1" group-title="KLI Media",KLI Fantastic HD
+http://cdn.klimedia.space/lb/klifantastica/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/KLIVHS.png" catchup-days="1" group-title="KLI Media",KLI VHS HD
+http://cdn.klimedia.space/lb/klivhs/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/kliaction.png" catchup-days="1" group-title="KLI Media",KLI Thriller HD
+http://cdn.klimedia.space/lb/kliaction/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/KLICCCP.png" catchup-days="1" group-title="KLI Media",KLI СССР HD
+http://cdn.klimedia.space/lb/kliussr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klifamily.png" catchup-days="1" group-title="KLI Media",KLI Family HD
+http://cdn.klimedia.space/lb/klifamily/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/KLIRetro.png" catchup-days="1" group-title="KLI Media",KLI Retro HD
+http://cdn.klimedia.space/lb/kliretro/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/kliclub.png" catchup-days="1" group-title="KLI Media",KLI Club HD
+http://cdn.klimedia.space/lb/kliclub/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/KLIKids.png" catchup-days="1" group-title="KLI Media",KLI Kids FHD
+http://cdn.klimedia.space/lb/klikids/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/KLIKinosetial.png" catchup-days="1" group-title="KLI Media",KLI Киносерия HD
+http://cdn.klimedia.space/lb/klikinoseries/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klimultiki.png" catchup-days="1" group-title="KLI Media",KLI Мультики HD
+http://cdn.klimedia.space/lb/klimult/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/kliconcert.png" catchup-days="1" group-title="KLI Media",KLI Concert HD
+http://cdn.klimedia.space/lb/kliconcert/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/KLIHorror.png" catchup-days="1" group-title="KLI Media",KLI Horror FHD
+http://cdn.klimedia.space/lb/klihorror/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/kli_action.png" catchup-days="1" group-title="KLI Media",KLI Action HD
+http://cdn.klimedia.space/lb/kli_action/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/kliDrama.png" catchup-days="1" group-title="KLI Media",KLI DRAMA HD
+http://cdn.klimedia.space/lb/klidrama/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klishanson.png" catchup-days="1" group-title="KLI Media",KLI Шансон
+http://cdn.klimedia.space/lb/klishanson/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klidocu.png" catchup-days="1" group-title="KLI Media",KLI Docu HD
+http://cdn.klimedia.space/lb/klidocu/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klihumor.png" catchup-days="1" group-title="KLI Media",KLI Humor FHD
+http://cdn.klimedia.space/lb/klihumor/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klioreliresha.png" catchup-days="1" group-title="KLI Media",KLI Орёл и решка HD
+http://cdn.klimedia.space/lb/KLIOrelReshca/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klinetflix.png" catchup-days="1" group-title="KLI Media",KLI Netflix HD
+http://cdn.klimedia.space/lb/KLI_NETFLIX/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klifantasy.png" catchup-days="1" group-title="KLI Media",KLI Fantasy HD
+http://cdn.klimedia.space/lb/klifantasy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klimillennium.png" catchup-days="1" group-title="KLI Media",KLI Millennium
+http://cdn.klimedia.space/lb/klimillennium/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klirelax.png" catchup-days="1" group-title="KLI Media",KLI Relax HD
+http://cdn.klimedia.space/lb/klirelax/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klimarvel.png" catchup-days="1" group-title="KLI Media",KLI Marvel HD
+http://cdn.klimedia.space/lb/klimarvel/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/Klifranchise.png" catchup-days="1" group-title="KLI Media",KLI Franchise HD
+http://cdn.klimedia.space/lb/klifranchisehd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/klinovinci.png" catchup-days="1" group-title="KLI Media",KLI Новинки HD
+http://cdn.klimedia.space/lb/klinovinci/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/icon/Беларусь 24.png" group-title="Беларусь",Беларусь 24
+http://cdn.klimedia.space/lb/belarus24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/belarus1hd.png" group-title="Беларусь",Беларусь 1 HD
+http://cdn.klimedia.space/lb/Belarus1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/belarus2hd.png" group-title="Беларусь",Беларусь 2 HD
+http://cdn.klimedia.space/lb/Belarus2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
+http://cdn.klimedia.space/lb/Belarus3/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",Беларусь 4
+http://cdn.klimedia.space/lb/Belarus4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",ОНТ HD
+http://cdn.klimedia.space/lb/onthd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",СТВ HD
+http://cdn.klimedia.space/lb/stv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",РТР-Беларусь HD
+http://cdn.klimedia.space/lb/rtrbeleruss/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",НТВ-Беларусь HD
+http://cdn.klimedia.space/lb/ntvbelaruss/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/vtv-by.png" group-title="Беларусь",ВТВ HD
+http://cdn.klimedia.space/lb/3124/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",Яснае ТВ
+http://cdn.klimedia.space/lb/3122/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/zvyazda-by.png" group-title="Беларусь",Звязда HD
+http://cdn.klimedia.space/lb/zvby/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",ТВ-3 Беларусь
+http://cdn.klimedia.space/lb/tv3by/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/europa-plus-tv.png" group-title="Беларусь",Europa Plus BY
+http://cdn.klimedia.space/lb/erupaplusby/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/skif.png" group-title="Беларусь",СКИФ HD
+http://cdn.klimedia.space/lb/skifhd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",БелМузТВ
+http://cdn.klimedia.space/lb/belmuztv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",Светлое ТВ HD
+http://cdn.klimedia.space/lb/svetloetv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Беларусь",БелРос
+http://cdn.klimedia.space/lb/belros/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/Матч! Футбол 1 HD 50fps.png" catchup-days="1" group-title="Спорт",Матч! Футбол 1 FHD
+http://cdn.klimedia.space/lb/MatchFutbol1HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/1042.png" catchup-days="1" group-title="Спорт",Матч! Футбол 2 FHD
+http://cdn.klimedia.space/lb/MatchFutbol2HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2005.png" catchup-days="1" group-title="Спорт",Матч! Футбол 3 FHD
+http://cdn.klimedia.space/lb/MatchFutbol3HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/МАТЧ ПРЕМЬЕР HD.png" catchup-days="1" group-title="Спорт",Матч! Премьер HD
+http://cdn.klimedia.space/lb/MatchPremyerHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2054.png" catchup-days="1" group-title="Спорт",Матч! Боец HD
+http://cdn.klimedia.space/lb/Boetc/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Матч! HD
+http://cdn.klimedia.space/lb/MatchHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://streaming-elbrus.su/img/logos/sport/match-tv.png" group-title="Спорт",Матч! HD 50
+http://cdn.klimedia.space/lb/match_hd50/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2003.png" catchup-days="1" group-title="Спорт",Матч! Игра HD
+http://cdn.klimedia.space/lb/MatchIgra/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2003.png" catchup-days="1" group-title="Спорт",Матч! Арена HD
+http://cdn.klimedia.space/lb/MatchArena/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/МАТЧ! СТРАНА orig.png" catchup-days="1" group-title="Спорт",Матч! Страна
+http://cdn.klimedia.space/lb/Mahtstranahd/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2782.png" catchup-days="1" group-title="Спорт",Телеканал Футбол HD
+http://cdn.klimedia.space/lb/football50/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",MMA-TV.com
+http://cdn.klimedia.space/lb/M1_Global/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=171319;image" catchup-days="1" group-title="Спорт",DAZN 2 HD
+http://cdn.klimedia.space/lb/id1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=171318;image" catchup-days="1" group-title="Спорт",DAZN 1 HD
+http://cdn.klimedia.space/lb/2833/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Бокс ТВ
+http://cdn.klimedia.space/lb/BoksTV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Setanta Sports 1 HD
+http://cdn.klimedia.space/lb/Setanta-Sports-1-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Setanta Sports 2 HD
+http://cdn.klimedia.space/lb/SetantaSport2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Setanta Ukraine Plus HD
+http://cdn.klimedia.space/lb/SetantaSportsplus/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/2370.png" catchup-days="1" group-title="Спорт",Setanta Sports Baltic HD
+http://cdn.klimedia.space/lb/SetantaBaltic/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Setanta Sports Moldova HD
+http://cdn.klimedia.space/lb/vip_hit/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%201%20HD.png" catchup-days="1" group-title="Спорт",Eurosport 1 HD
+http://cdn.klimedia.space/lb/eurosport1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%202%20HD.png" catchup-days="1" group-title="Спорт",Eurosport 2 HD
+http://cdn.klimedia.space/lb/eurosport2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Xsport HD
+http://cdn.klimedia.space/lb/XsportHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Удар HD
+http://cdn.klimedia.space/lb/Udar/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Спорт HD
+http://cdn.klimedia.space/lb/Football1HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Мир Баскетбола
+http://cdn.klimedia.space/lb/MirBasket/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",TNT SPORTS 1 HD
+http://cdn.klimedia.space/lb/BTSport1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",TNT SPORTS 2 HD
+http://cdn.klimedia.space/lb/BTSport2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=204666" catchup-days="1" group-title="Спорт",Fox Sport 1
+http://cdn.klimedia.space/lb/foxsport1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=204668" catchup-days="1" group-title="Спорт",Fox Sport 2
+http://cdn.klimedia.space/lb/foxsport2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",FightBox HD
+http://cdn.klimedia.space/lb/Fightbox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Sky Sport News HD DE
+http://cdn.klimedia.space/lb/SkySportNews/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20cricket%20hd.png" catchup-days="1" group-title="Спорт",Sky Sport Tennis HD DE
+http://cdn.klimedia.space/lb/Skaysport2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Sky Sport Bundesliga 1 HD DE
+http://cdn.klimedia.space/lb/SkySportBundesliga1HDE/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Sky Sport UHD
+http://cdn.klimedia.space/lb/Sky_Sport_UHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Go3 Sport 1
+http://cdn.klimedia.space/lb/live1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Go3 Sport 2
+http://cdn.klimedia.space/lb/live2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214573" catchup-days="1" group-title="Спорт",Go3 Sport 3
+http://cdn.klimedia.space/lb/live3/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=214569" catchup-days="1" group-title="Спорт",Go3 Sport Open
+http://cdn.klimedia.space/lb/live4/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",СТАРТ HD
+http://cdn.klimedia.space/lb/Skysport1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Старт Триумф HD
+http://cdn.klimedia.space/lb/Start_Triumph_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/logo/khl.png" catchup-days="1" group-title="Спорт",KHL FHD
+http://cdn.klimedia.space/lb/KHL/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",KHL Prime HD
+http://cdn.klimedia.space/lb/FHD_KHL/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Конный мир HD
+http://cdn.klimedia.space/lb/KonniyMirHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://png.pngitem.com/pimgs/s/275-2752642_nfl-hd-png-download.png" catchup-days="1" group-title="Спорт",NHL NETWORK
+http://cdn.klimedia.space/lb/nhlnetwork/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Qsport HD
+http://cdn.klimedia.space/lb/Qsport/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Qazsport HD
+http://cdn.klimedia.space/lb/Qazsport_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/setanta-kz.png" group-title="Спорт",Setanta Qazaqstan HD
+http://cdn.klimedia.space/lb/SetantaKZ_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/setanta1-kz.png" group-title="Спорт",Setanta Sports 1 HD KZ
+http://cdn.klimedia.space/lb/setantasports1hdkz/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/setanta2-kz.png" group-title="Спорт",Setanta Sports 2 HD KZ
+http://cdn.klimedia.space/lb/setantasports2hdkz/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Setanta Sports + UA
+http://cdn.klimedia.space/lb/prymoi/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Setanta Sports Ukraine
+http://cdn.klimedia.space/lb/perhy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Q Sport League HD
+http://cdn.klimedia.space/lb/Q_1080p/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Спортивный HD
+http://cdn.klimedia.space/lb/Futbol2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://epg.it999.ru/img2/4679.png" catchup-days="1" group-title="Спорт",Футбольный HD
+http://cdn.klimedia.space/lb/Futbol1-UA/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="https://epgx.site/p/xokkejny.png" catchup-days="1" group-title="Спорт",Хоккейный HD
+http://cdn.klimedia.space/lb/SM_Hokeynyi_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Extreme Sports HD
+http://cdn.klimedia.space/lb/ExtremeSportsHD_RU/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Моторспорт ТВ HD
+http://cdn.klimedia.space/lb/motostort/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спорт",Viju+ Sport HD
+http://cdn.klimedia.space/lb/Viasat-Sport/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Sport 1 UA
+http://cdn.klimedia.space/lb/SPORT1_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/sport1-baltic.png" group-title="Спорт",Sport 1 Baltic
+http://cdn.klimedia.space/lb/Sport_2Baltic/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Sport 2 UA
+http://cdn.klimedia.space/lb/sport2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/sport4-ua.png" group-title="Спорт",Sport 4 UA
+http://cdn.klimedia.space/lb/Sport_1Baltic/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Polsat Sport Premium 1
+http://cdn.klimedia.space/lb/sy0x1x/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Polsat Sport Premium 2
+http://cdn.klimedia.space/lb/j48ke9/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Спорт",Беларусь 5 HD
+http://cdn.klimedia.space/lb/Belarus5/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Детское кино HD
+http://cdn.klimedia.space/lb/detkino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/66.png" group-title="Детские",Уникум HD
+http://cdn.klimedia.space/lb/Detskiy-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://cdn.klimedia.space/lb/Nickelodeon/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://cdn.klimedia.space/lb/STS-Kids/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://cdn.klimedia.space/lb/Mul-tilandiya/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Мультимузыка
+http://cdn.klimedia.space/lb/Mul-t-i-muzyka/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Карусель
+http://cdn.klimedia.space/lb/Karusel/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://cdn.klimedia.space/lb/Mul-t-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Солнце
+http://cdn.klimedia.space/lb/solnce/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",2x2
+http://cdn.klimedia.space/lb/2plus2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Ani
+http://cdn.klimedia.space/lb/ani/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Nick Jr
+http://cdn.klimedia.space/lb/nickjr/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://cdn.klimedia.space/lb/CartoonNetwork/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",JimJam
+http://cdn.klimedia.space/lb/JimJam/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/detsky-mir.png" group-title="Детские",Детский мир HD
+http://cdn.klimedia.space/lb/detmir/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",В гостях у сказки HD
+http://cdn.klimedia.space/lb/v_gostyah_u_skazki/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",О!
+http://cdn.klimedia.space/lb/telekalo/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Сказки Зайки
+http://cdn.klimedia.space/lb/pg_thriller/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/tiji.png" group-title="Детские",Tiji
+http://cdn.klimedia.space/lb/pg_serial/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Рыжий
+http://cdn.klimedia.space/lb/pg_paradise/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://cdn.klimedia.space/lb/pg_premium/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2442.png" group-title="Детские",Смайлик HD
+http://cdn.klimedia.space/lb/pg_victory/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=205955" group-title="Детские",Лёва HD
+http://cdn.klimedia.space/lb/pg_zal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=210557" group-title="Детские",Советские Мультфильмы
+http://cdn.klimedia.space/lb/pg_vhs/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://tricolor-molodezhnaya.ru/upload/iblock/68d/68d0ba94169c098df59407bcaacbf116.png" group-title="Детские",Ералаш
+http://cdn.klimedia.space/lb/Kinozal_10/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/itkchannels/images/8/83/%D0%A2%D0%9210_%D0%A4%D0%B8%D0%BA%D1%81%D0%B8%D0%BA%D0%B8_%28%D1%81_2023%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/250?cb=20230625075910&path-prefix=ru" group-title="Детские",Фиксики
+http://cdn.klimedia.space/lb/Kinozal_12/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/Chizhik_logo_slovo_72.png?1661153869" group-title="Детские",Чижик
+http://cdn.klimedia.space/lb/CHIZHIKHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",NickToons
+http://cdn.klimedia.space/lb/NickToons/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Cartoonito
+http://cdn.klimedia.space/lb/Boomerang/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Duck HD
+http://cdn.klimedia.space/lb/Duck_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2438.png" group-title="Детские",Капитан Фантастика HD
+http://cdn.klimedia.space/lb/Kapitan_Fantastika_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%A2%D0%98%D0%9F%D0%A2%D0%9E%D0%9F_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%81_%D0%BE%D0%B1%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B9_72.png?1653572862" group-title="Детские",ТипТоп
+http://cdn.klimedia.space/lb/sovcomedy/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Детские",Da Vinci Kids
+http://cdn.klimedia.space/lb/DaVinciKids/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=183280" group-title="Музыкальный",Музыка 1
+http://cdn.klimedia.space/lb/muzyka1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Музыка 2 HD
+http://cdn.klimedia.space/lb/muzyka2/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=183281" group-title="Музыкальный",Музыка 1 International
+http://cdn.klimedia.space/lb/muzinter1/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Музыка 2 International
+http://cdn.klimedia.space/lb/muzyka2International/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Музыка Кино HD
+http://cdn.klimedia.space/lb/muzykakino/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Музыка Кино International
+http://cdn.klimedia.space/lb/muzykakinoInternational/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://dbtv.ru/upload/icons/baletopera-tviksel.png" group-title="Музыкальный",Балет Опера
+http://cdn.klimedia.space/lb/operaiboleta/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",MC Music Choice
+http://cdn.klimedia.space/lb/hiphop/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/icon/МУЗ-ТВ.png" group-title="Музыкальный",Муз ТВ
+http://cdn.klimedia.space/lb/MYZ_TV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" tvg-logo="http://klimedia.space/icon/Шансон ТВ.png" catchup-days="1" group-title="Музыкальный",Шансон ТВ
+http://cdn.klimedia.space/lb/Shanson/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",TMF HD
+http://cdn.klimedia.space/lb/tmftu/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://backustv.ru/test/logo3.png" group-title="Музыкальный",BACKUSTV MUSIC
+http://cdn.klimedia.space/lb/backustvmusic/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Deluxe Flashback
+http://cdn.klimedia.space/lb/Deluxe_Flashback/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Deluxe Dance
+http://cdn.klimedia.space/lb/Deluxe_Dance/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Deluxe Rap
+http://cdn.klimedia.space/lb/Deluxepap/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Eurodance 90 HD
+http://cdn.klimedia.space/lb/Eurodance-90-HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Retro 80 HD
+http://cdn.klimedia.space/lb/Retro80HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2379.png" group-title="Музыкальный",4ever music
+http://cdn.klimedia.space/lb/4Evermusic/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Music Box Gold
+http://cdn.klimedia.space/lb/musicreloadtv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/d6039d35eaee817a6beca76dc23722c9.png" group-title="Музыкальный",Musiс Box Russia HD
+http://cdn.klimedia.space/lb/rmbox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",MCM TOP
+http://cdn.klimedia.space/lb/MCMTOP/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Mezzo
+http://cdn.klimedia.space/lb/MuzzikTV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Ля-минор ТВ
+http://cdn.klimedia.space/lb/extlive/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыкальный",RU.TV Беларусь
+http://cdn.klimedia.space/lb/rutvbelarus/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Музыкальный",RU TV HD
+http://cdn.klimedia.space/lb/rutv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC1QBrVb/radio-deejay-it.png" group-title="Музыкальный",Deejay TV HD
+http://cdn.klimedia.space/lb/Deejaytv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2415.png" group-title="Музыкальный",Жар птица
+http://cdn.klimedia.space/lb/ptica/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",MTV Hits
+http://cdn.klimedia.space/lb/MTVHits/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",MTV 00s
+http://cdn.klimedia.space/lb/mtv_00/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",MTV 90s
+http://cdn.klimedia.space/lb/mtv90s/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Музыкальный",MTV 80s
+http://cdn.klimedia.space/lb/MTV_80/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",MTV Live HD
+http://cdn.klimedia.space/lb/mtvlive/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Club MTV
+http://cdn.klimedia.space/lb/mtvclub/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Bridge TV
+http://cdn.klimedia.space/lb/bridgetv24/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Bridge Deluxe HD
+http://cdn.klimedia.space/lb/BRIDGE_TV_DELUXE_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Bridge TV Classic
+http://cdn.klimedia.space/lb/bridgeclassictv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Bridge TV Русский Хит HD
+http://cdn.klimedia.space/lb/bridgedeluxetv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/bridge-tv-rock.png" group-title="Музыкальный",Bridge TV Rock HD
+http://cdn.klimedia.space/lb/bridgefreshya/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4621.png" group-title="Музыкальный",Bridge TV Шлягер
+http://cdn.klimedia.space/lb/bridgetvshlyager/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Bridge TV Hits HD
+http://cdn.klimedia.space/lb/Bridge_TV_Hits/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=188961" group-title="Музыкальный",Bridge Фрэш
+http://cdn.klimedia.space/lb/brigfresh/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/icon/ТНТ MUSIC.png" group-title="Музыкальный",ТНТ MUSIC
+http://cdn.klimedia.space/lb/TNT_Mus/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/icon/Музыка orig.png" group-title="Музыкальный",Музыка Первого
+http://cdn.klimedia.space/lb/Muz_Perv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Europa Plus TV
+http://cdn.klimedia.space/lb/Eur_Plus/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/d2be2b876c6d4634ff889e186e3389d5.png" group-title="Музыкальный",SONG TV RUSSIA HD
+http://cdn.klimedia.space/lb/web-russia/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Жара
+http://cdn.klimedia.space/lb/Zhara/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4658.png" group-title="Музыкальный",VIVA HD
+http://cdn.klimedia.space/lb/VIVA_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://epgx.site/p/muzzone.png" group-title="Музыкальный",Muzzone
+http://cdn.klimedia.space/lb/Muzzone/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=159646;image" group-title="Музыкальный",Megogo live HD
+http://cdn.klimedia.space/lb/Megogolive/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Страна FM
+http://cdn.klimedia.space/lb/870/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",AIVA HD
+http://cdn.klimedia.space/lb/AIVAHD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",RITSA TV
+http://cdn.klimedia.space/lb/livettv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/230px-NOW_70s.png" group-title="Музыкальный",now 70s
+http://cdn.klimedia.space/lb/now70s/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Музыкальный",now 80s
+http://cdn.klimedia.space/lb/now80s/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Музыкальный",now rock
+http://cdn.klimedia.space/lb/nowrock/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",1 HD Music Television
+http://cdn.klimedia.space/lb/1musictv/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/Stingray_iCincerts_HD.png" group-title="Музыкальный",Stingray iConcert HD
+http://cdn.klimedia.space/lb/iConcerts_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Mafi2a TV
+http://cdn.klimedia.space/lb/Mafi2aMusicTV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2412.png" group-title="Музыкальный",О2 ТВ
+http://cdn.klimedia.space/lb/O2TV_HD/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Музыкальный",Retro CZ
+http://cdn.klimedia.space/lb/Retro_CZ/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Barely legal
+http://cdn.klimedia.space/lb/Barelylegal/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Playboy TV
+http://cdn.klimedia.space/lb/PlayboyTV/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Erox HD
+http://cdn.klimedia.space/lb/Erox/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Blue Hustler
+http://cdn.klimedia.space/lb/BlueHustler/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Русская Ночь
+http://cdn.klimedia.space/lb/RusskayaNoch/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Exxxotica HD
+http://cdn.klimedia.space/lb/Exxxotica/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",O-la-la
+http://cdn.klimedia.space/lb/olala/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Extasy 4K
+http://cdn.klimedia.space/lb/Extasy4K/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 tvg-logo="http://klimedia.space/logo/1.png" group-title="Для взрослых",Prokop TV XXX
+http://cdn.klimedia.space/lb/prokoptvporno/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Кино +18
+http://cdn.klimedia.space/lb/kino1plus18/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
+#EXTINF:-1 group-title="Для взрослых",Кино +18 International
+http://cdn.klimedia.space/lb/kino18International/mpegts?token=klimedia.space:QmJibm5uOjIwMDl2aWN0b3IwOQ==
